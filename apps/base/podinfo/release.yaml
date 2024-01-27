@@ -4,6 +4,7 @@ metadata:
   name: podinfo
   namespace: flux-system
 spec:
+  targetNamespace: podinfo
   releaseName: podinfo
   chart:
     spec:
