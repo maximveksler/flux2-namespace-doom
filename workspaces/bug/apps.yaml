@@ -9,7 +9,7 @@ spec:
   targetNamespace: flux-system
   sourceRef:
     kind: GitRepository
-    name: flux-system
+    name: flux2-namespace-doom
   path: ./apps/base/bug
   prune: true
   wait: true
