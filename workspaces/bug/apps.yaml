@@ -10,7 +10,7 @@ spec:
   sourceRef:
     kind: GitRepository
     name: flux2-namespace-doom
-  path: ./apps/base/bug
+  path: ./apps/base/podinfo
   prune: true
   wait: true
   timeout: 5m0s
